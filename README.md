@@ -9,6 +9,13 @@ A simple Python CLI application that generates formatted multiplication tables a
 - **Triangle Pattern Generator**: Prints ascending and descending number triangles
 - **Interactive CLI**: Continuous loop for multiple operations until exit
 
+## Run it
+1.  Save the script as  `app.py`
+    
+2.  Run:
+```bash
+python3 app.py
+```
 ## Functions
 
 ### `print_multiplication_table(n)`
